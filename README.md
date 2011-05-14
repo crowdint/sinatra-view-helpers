@@ -22,7 +22,6 @@ Only include the module in your class
 You can use your ruby classes as ActiveRecord model in the views
 
 
-    #
     <%= form_for @foo do |form|%>
       <%= form.label :name, 'Name' %>
       <%= form.text_field :name %>
