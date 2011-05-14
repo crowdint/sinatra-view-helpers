@@ -2,9 +2,11 @@ This gem make your ruby classes Rails 3 compatibles, so you can use View helpers
 
 ## Installing
 Include the gem in your Gemfile
+
     gem 'views-helper'
 
 Install it
+
     bundle install
 
 ## Use
