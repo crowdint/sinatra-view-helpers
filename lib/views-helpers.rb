@@ -1,5 +1,3 @@
-module Views
-  module Helpers
-    # Your code goes here...
-  end
+module ViewsHelpers
+    autoload :Model, 'views-helpers/model'
 end
