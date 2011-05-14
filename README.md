@@ -29,4 +29,4 @@ You can use your ruby classes as ActiveRecord model in the views
     <% end %>
 
 ## TODO
-Create a gem version for sinatra an use Padrino helpers
+Create a gem version for sinatra (maybe using Padrino helpers).
